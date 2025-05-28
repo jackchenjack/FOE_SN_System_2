@@ -76,6 +76,7 @@ namespace MFG_SN_Mapping
 
         private void btn_93Ship_Mapping_Click(object sender, EventArgs e)
         {
+
             this.Hide();
 
             Sn_Mapping vForm = new Sn_Mapping();
